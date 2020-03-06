@@ -1,0 +1,13 @@
+C:\Data\CP2\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Data\CP2\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Data\CP2\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Data\CP2\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Data\CP2\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+C:\Data\CP2\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Data\CP2\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Data\CP2\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Data\CP2\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Data\CP2\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Data\CP2\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Data\CP2\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Data\CP2\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Dialog1.resources
